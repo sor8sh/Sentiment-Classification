@@ -12,7 +12,7 @@
 
 ---
 
-A binary sentiment classification on movie reviews using 4 classifiers:
+A binary sentiment classification of full sentences on movie reviews using 4 classifiers:
 - Naive Bayes
 - Decision Tree
 - Maximum Entropy
